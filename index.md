@@ -4,7 +4,7 @@ title: Welcome to my blog
 
 # Hello and Welcome!
 
-I am Ay-Solomon, and this is my blog where I share my thoughts and projects on various topics.
+I am Ay-Solomon, and this is my blog where I share my thoughts and showcase my projects on various topics.
 
 ## About Me
 
